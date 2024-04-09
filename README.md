@@ -1,4 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Harshani</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a budding software engineer with a passion for mastering the world of full stack development. As a newcomer to the field, I'm excited to embark on a journey of learning, growth, and creativity. Through my GitHub projects, you'll witness my commitment to honing my skills and creating innovative solutions that span from front-end design to back-end functionality. Join me as I document my progress and contribute to the dynamic landscape of software development</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HarshaniYaparathne&label=Profile%20views&color=0e75b6&style=flat" alt="HarshaniYaparathne" /> </p>
