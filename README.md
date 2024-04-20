@@ -1,7 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harshani's Profile</title>
+<style>
+/* Animation for text */
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+/* Apply animation to h1 element */
+#animatedHeading {
+  text-align: center;
+  animation: fadeIn 1s ease-out;
+}
+</style>
+</head>
+<body>
+
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
-<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Harshani</h1>
+<p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="100px"></p>
+<h1 align="center" id="animatedHeading">Hi 👋, I'm Harshani</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a budding software engineer with a passion for mastering the world of full stack development. As a newcomer to the field, I'm excited to embark on a journey of learning, growth, and creativity. Through my GitHub projects, you'll witness my commitment to honing my skills and creating innovative solutions that span from front-end design to back-end functionality. Join me as I document my progress and contribute to the dynamic landscape of software development</h3>
 <br>
 <h4 align="center">Currently enrolled in the BSc. Honours Degree program in Computing & Information Systems at Sabaragamuwa University of Sri Lanka, where I immerse myself in the fascinating world of technology. This academic journey not only ignites my passion for delving into the depths of technology but also enriches my practical experiences in software engineering. Explore more about my university at <a href="http://www.sab.ac.lk">Sabaragamuwa University of Sri Lanka</a></h4>
@@ -68,3 +94,5 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</body>
+</html>
