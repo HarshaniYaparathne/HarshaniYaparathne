@@ -1,7 +1,13 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 align="center">Hi 👋, I'm Harshani</h1>
+<div align="center">
+  <h1>
+    <a href="[https://github.com/D-Binara](https://github.com/HarshaniYaparathne)">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7C213&center=true&vCenter=true&width=435&height=70&lines=Hi%2C+I'm+Harshani%F0%9F%91%8B">
+    </a>
+  </h1>
+</div>
 <h3 align="center">Welcome to my GitHub profile! I'm a budding software engineer with a passion for mastering the world of full stack development. As a newcomer to the field, I'm excited to embark on a journey of learning, growth, and creativity. Through my GitHub projects, you'll witness my commitment to honing my skills and creating innovative solutions that span from front-end design to back-end functionality. Join me as I document my progress and contribute to the dynamic landscape of software development</h3>
 <br>
 <h4 align="center">Currently enrolled in the BSc. Honours Degree program in Computing & Information Systems at Sabaragamuwa University of Sri Lanka, where I immerse myself in the fascinating world of technology. This academic journey not only ignites my passion for delving into the depths of technology but also enriches my practical experiences in software engineering. Explore more about my university at <a href="http://www.sab.ac.lk">Sabaragamuwa University of Sri Lanka</a></h4>
